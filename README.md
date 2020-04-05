@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/katopz/vscode-debug-nodejs-es6) 
+
 # vscode-debug-nodejs-es6
 How to debug ES6 NodeJS with VSCode
 
